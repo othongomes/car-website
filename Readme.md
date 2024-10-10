@@ -1,18 +1,18 @@
-# Vitrine de Carros
+# Car Showcase
 
-## Descrição
+## Description
 
-Este projeto é uma vitrine interativa de carros que permite aos usuários navegar entre diferentes modelos utilizando botões de navegação. O design é responsivo e utiliza tecnologias modernas, como HTML, CSS e JavaScript, para uma experiência de usuário aprimorada.
+This project is an interactive car showcase that allows users to navigate through different models using navigation buttons. The design is responsive and utilizes modern technologies such as HTML, CSS, and JavaScript for an enhanced user experience.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- [Poppins](https://fonts.google.com/specimen/Poppins) e [League Gothic](https://fonts.google.com/specimen/League+Gothic) (fontes do Google Fonts)
+- [Poppins](https://fonts.google.com/specimen/Poppins) and [League Gothic](https://fonts.google.com/specimen/League+Gothic) (Google Fonts)
 
-## Funcionalidades
+## Features
 
-- Navegação entre diferentes carros utilizando botões de seta.
-- Indicadores que mostram qual carro está sendo exibido.
-- Design responsivo adaptável a diferentes tamanhos de tela.
+- Navigation through different cars using arrow buttons.
+- Indicators showing which car is currently displayed.
+- Responsive design adaptable to various screen sizes.
